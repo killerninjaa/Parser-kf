@@ -1,0 +1,5 @@
+selenium-wire
+requests
+pandas
+bs4
+Pillow
