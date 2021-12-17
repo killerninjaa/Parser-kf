@@ -68,7 +68,7 @@ def this_year(today_date):
             list_info_new.append(oso_dict)
     osobnyak_info_df = pd.DataFrame(list_info_new)
     writer = pd.ExcelWriter('info_excel_year.xlsx', engine='xlsxwriter')
-    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1')
+    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1', index=False)
     writer.save()
     return list_info_new
 
@@ -85,7 +85,7 @@ def last_month(today_date):
             list_info_new.append(oso_dict)
     osobnyak_info_df = pd.DataFrame(list_info_new)
     writer = pd.ExcelWriter('info_excel_month.xlsx', engine='xlsxwriter')
-    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1')
+    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1', index=False)
     writer.save()
 
 def last_week(today_date):
@@ -104,7 +104,7 @@ def last_week(today_date):
                     list_info_new.append(oso_dict)
     osobnyak_info_df = pd.DataFrame(list_info_new)
     writer = pd.ExcelWriter('info_excel_week.xlsx', engine='xlsxwriter')
-    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1')
+    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1', index=False)
     writer.save()        
     
 def last_kvartal(today_date):
@@ -123,7 +123,7 @@ def last_kvartal(today_date):
                     list_info_new.append(oso_dict)
     osobnyak_info_df = pd.DataFrame(list_info_new)
     writer = pd.ExcelWriter('info_excel_three_month.xlsx', engine='xlsxwriter')
-    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1')
+    osobnyak_info_df.to_excel(writer, sheet_name='Sheet1', index=False)
     writer.save()     
 
 def get_page_soup(url_link):
@@ -149,17 +149,19 @@ def get_key(url_link):
     options = webdriver.ChromeOptions()
     options.headless = True    
     driver = webdriver.Chrome("chromedriver.exe", options=options)
-    driver.get(url_link)
-    button = driver.find_element_by_class_name('cookie-button')
-    button.click()
-    time.sleep(5)
-    button = driver.find_element_by_id('content_sws')
-    button.click()
-    time.sleep(9)
-    for request in driver.requests:
-        if 'https://osobnyaki.com/assets/components/msearch2/custom_action.php' == str(request.url):
-            key = str(request.body)
-            key = key[key.find('key=') + 4:-1]  
+    key = ''
+    while key == '':
+        driver.get(url_link)
+        button = driver.find_element_by_class_name('cookie-button')
+        button.click()
+        time.sleep(5)
+        button = driver.find_element_by_id('content_sws')
+        button.click()
+        time.sleep(9)
+        for request in driver.requests:
+            if 'https://osobnyaki.com/assets/components/msearch2/custom_action.php' == str(request.url):
+                key = str(request.body)
+                key = key[key.find('key=') + 4:-1]  
     return key
 
 def get_osobnyak_links(num_of_oso, help, key):

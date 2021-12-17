@@ -428,8 +428,8 @@
             "Link": "https://osobnyaki.com//v-pechatnikovom-pereulke-12",
             "Date added": "2018-07-24",
             "Square": "168",
-            "Price": "184630000",
-            "Price per square meter": 1098988
+            "Price": "183930000",
+            "Price per square meter": 1094821
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041c\u044f\u0441\u043d\u0438\u0446\u043a\u043e\u0439, 43",
@@ -564,8 +564,8 @@
             "Link": "https://osobnyaki.com//na-4-y-ulitse-8-marta-6",
             "Date added": "2018-07-24",
             "Square": "894",
-            "Price": "221560000",
-            "Price per square meter": 247830
+            "Price": "220720000",
+            "Price per square meter": 246890
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442\u0435 \u041c\u0438\u0440\u0430, 12",
@@ -1116,8 +1116,8 @@
             "Link": "https://osobnyaki.com//v-leontevskom-pereulke-2",
             "Date added": "2018-07-24",
             "Square": "1377",
-            "Price": "369260000",
-            "Price per square meter": 268163
+            "Price": "367860000",
+            "Price per square meter": 267146
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0411\u043e\u043b\u044c\u0448\u043e\u043c \u0422\u0440\u0451\u0445\u0433\u043e\u0440\u043d\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 1",
@@ -1268,16 +1268,16 @@
             "Link": "https://osobnyaki.com//v-shmitovskom-proezde-3s2",
             "Date added": "2018-07-24",
             "Square": "575",
-            "Price": "406190000",
-            "Price per square meter": 706417
+            "Price": "404640000",
+            "Price per square meter": 703722
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432\u043e 2-\u043c \u0421\u043f\u0430\u0441\u043e\u043d\u0430\u043b\u0438\u0432\u043a\u043e\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 8",
             "Link": "https://osobnyaki.com//vo-2-m-spasonalivkovskom-pereulke-8",
             "Date added": "2018-07-24",
             "Square": "419",
-            "Price": "406190000",
-            "Price per square meter": 969427
+            "Price": "404640000",
+            "Price per square meter": 965728
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041a\u0430\u043b\u0430\u043d\u0447\u0435\u0432\u0441\u043a\u043e\u043c \u0442\u0443\u043f\u0438\u043a\u0435, 9",
@@ -1332,8 +1332,8 @@
             "Link": "https://osobnyaki.com//v-hlinovskom-tupike-3s4",
             "Date added": "2018-07-24",
             "Square": "702",
-            "Price": "443110000",
-            "Price per square meter": 631211
+            "Price": "441430000",
+            "Price per square meter": 628818
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041d\u0438\u0436\u043d\u0435\u0439 \u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0439, 5\u04415",
@@ -1432,20 +1432,20 @@
             "Price per square meter": 353846
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041f\u043e\u0434\u043a\u043e\u043f\u0430\u0435\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 2",
+            "Link": "https://osobnyaki.com//v-podkopaevskom-pereulke-2",
+            "Date added": "2018-07-24",
+            "Square": "592",
+            "Price": "478220000",
+            "Price per square meter": 807804
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0423\u0441\u043f\u0435\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 16",
             "Link": "https://osobnyaki.com//v-uspenskom-pereulke-16",
             "Date added": "2018-12-17",
             "Square": "1668",
             "Price": "480000000",
             "Price per square meter": 287770
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041f\u043e\u0434\u043a\u043e\u043f\u0430\u0435\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 2",
-            "Link": "https://osobnyaki.com//v-podkopaevskom-pereulke-2",
-            "Date added": "2018-07-24",
-            "Square": "592",
-            "Price": "480040000",
-            "Price per square meter": 810878
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0422\u0440\u043e\u0444\u0438\u043c\u043e\u0432\u0430, 14\u04411",
@@ -1540,16 +1540,16 @@
             "Link": "https://osobnyaki.com//v-bolshom-savvinskom-pereulke-9",
             "Date added": "2018-07-24",
             "Square": "1058",
-            "Price": "516960000",
-            "Price per square meter": 488620
+            "Price": "515000000",
+            "Price per square meter": 486767
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0412\u0435\u0442\u043e\u0448\u043d\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
             "Link": "https://osobnyaki.com//v-vetoshnom-pereulke-7",
             "Date added": "2018-07-24",
             "Square": "162",
-            "Price": "531730000",
-            "Price per square meter": 3282284
+            "Price": "529710000",
+            "Price per square meter": 3269815
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041e\u0440\u0434\u044b\u043d\u043a\u0435, 61\u04411/2",
@@ -1628,8 +1628,8 @@
             "Link": "https://osobnyaki.com//na-bolshoy-polyanke-39",
             "Date added": "2018-07-24",
             "Square": "765",
-            "Price": "590810000",
-            "Price per square meter": 772301
+            "Price": "588570000",
+            "Price per square meter": 769373
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041f\u044f\u0442\u043d\u0438\u0446\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 13",
@@ -1644,8 +1644,8 @@
             "Link": "https://osobnyaki.com//na-bolshoy-ordinke-61s1",
             "Date added": "2018-07-24",
             "Square": "424",
-            "Price": "599980000",
-            "Price per square meter": 1415047
+            "Price": "599400000",
+            "Price per square meter": 1413679
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0422\u0440\u0443\u0431\u043d\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 25",
@@ -1688,20 +1688,20 @@
             "Price per square meter": 536673
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0421\u0430\u0434\u043e\u0432\u043e\u0439-\u041a\u0443\u0434\u0440\u0438\u043d\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0430, 21",
+            "Link": "https://osobnyaki.com//na-sadovoy-kudrinskoy-ulitsa-21",
+            "Date added": "2018-07-26",
+            "Square": "1200",
+            "Price": "625360000",
+            "Price per square meter": 521133
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0421\u044b\u0442\u0438\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 3",
             "Link": "https://osobnyaki.com//v-sitinskom-pereulke-3",
             "Date added": "2021-11-08",
             "Square": "1239",
             "Price": "627740000",
             "Price per square meter": 506651
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0421\u0430\u0434\u043e\u0432\u043e\u0439-\u041a\u0443\u0434\u0440\u0438\u043d\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0430, 21",
-            "Link": "https://osobnyaki.com//na-sadovoy-kudrinskoy-ulitsa-21",
-            "Date added": "2018-07-26",
-            "Square": "1200",
-            "Price": "627740000",
-            "Price per square meter": 523117
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0422\u0440\u0443\u0431\u043d\u043e\u0439, 25\u04411",
@@ -1876,24 +1876,24 @@
             "Link": "https://osobnyaki.com//v-trubnikovskom-pereulke-21",
             "Date added": "2018-07-26",
             "Square": "1325",
-            "Price": "804980000",
-            "Price per square meter": 607532
+            "Price": "801930000",
+            "Price per square meter": 605230
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0418\u0437\u0432\u0435\u0441\u0442\u043a\u043e\u0432\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 5",
             "Link": "https://osobnyaki.com//v-izvestkovom-pereulke-5",
             "Date added": "2018-07-26",
             "Square": "1675",
-            "Price": "812370000",
-            "Price per square meter": 484997
+            "Price": "809280000",
+            "Price per square meter": 483152
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041e\u0440\u0434\u044b\u043d\u043a\u0435, 10",
             "Link": "https://osobnyaki.com//na-bolshoy-ordinke-10",
             "Date added": "2018-07-24",
             "Square": "1150",
-            "Price": "812370000",
-            "Price per square meter": 706409
+            "Price": "809280000",
+            "Price per square meter": 703722
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041b\u044e\u0441\u0438\u043d\u043e\u0432\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 40",
@@ -1936,20 +1936,20 @@
             "Price per square meter": 480034
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0435, 5/6",
+            "Link": "https://osobnyaki.com//na-bolshoy-dmitrovke-5-6",
+            "Date added": "2018-07-24",
+            "Square": "545",
+            "Price": "868140000",
+            "Price per square meter": 1592917
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u041f\u043e\u0442\u044b\u043b\u0438\u0445\u0430, 1",
             "Link": "https://osobnyaki.com//na-ulitse-potiliha-1",
             "Date added": "2018-07-24",
             "Square": "962",
             "Price": "870000000",
             "Price per square meter": 904366
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0435, 5/6",
-            "Link": "https://osobnyaki.com//na-bolshoy-dmitrovke-5-6",
-            "Date added": "2018-07-24",
-            "Square": "545",
-            "Price": "871450000",
-            "Price per square meter": 1598991
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0421\u043e\u0444\u0438\u0439\u0441\u043a\u043e\u0439 \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u043e\u0439, 34\u04412/1",
@@ -1960,20 +1960,20 @@
             "Price per square meter": null
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
+            "Link": "https://osobnyaki.com//v-kolokolnikovom-pereulke-7",
+            "Date added": "2018-07-24",
+            "Square": "1407",
+            "Price": "882850000",
+            "Price per square meter": 627470
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0435, 12",
             "Link": "https://osobnyaki.com//na-sretenke-12",
             "Date added": "2021-10-04",
             "Square": "3686",
             "Price": "885000000",
             "Price per square meter": 240098
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
-            "Link": "https://osobnyaki.com//v-kolokolnikovom-pereulke-7",
-            "Date added": "2018-07-24",
-            "Square": "1407",
-            "Price": "886220000",
-            "Price per square meter": 629865
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 1-\u043c \u0422\u0440\u043e\u0438\u0446\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 12",
@@ -2036,8 +2036,8 @@
             "Link": "https://osobnyaki.com//na-ulitse-makarenko-6",
             "Date added": "2018-07-24",
             "Square": "1467",
-            "Price": "960070000",
-            "Price per square meter": 654444
+            "Price": "956430000",
+            "Price per square meter": 651963
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0427\u0430\u043f\u043b\u044b\u0433\u0438\u043d\u0430, 9",
@@ -2116,8 +2116,24 @@
             "Link": "https://osobnyaki.com//v-granatnom-pereulke-6",
             "Date added": "2018-07-26",
             "Square": "1225",
-            "Price": "1107770000",
-            "Price per square meter": 904302
+            "Price": "1103570000",
+            "Price per square meter": 900873
+      },
+      {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 2-\u0439 \u0411\u0440\u0435\u0441\u0442\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 32",
+            "Link": "https://osobnyaki.com//na-2-y-brestskoy-ulitse-32",
+            "Date added": "2018-08-22",
+            "Square": "1395",
+            "Price": "1103570000",
+            "Price per square meter": 791090
+      },
+      {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0411\u0430\u0440\u044b\u043a\u043e\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
+            "Link": "https://osobnyaki.com//v-barikovskom-pereulke-7",
+            "Date added": "2018-07-24",
+            "Square": "541",
+            "Price": "1103570000",
+            "Price per square meter": 2039871
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041f\u043e\u043b\u044f\u043d\u043a\u0435, 2/10",
@@ -2126,22 +2142,6 @@
             "Square": "2554",
             "Price": "1107770000",
             "Price per square meter": 433739
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 2-\u0439 \u0411\u0440\u0435\u0441\u0442\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 32",
-            "Link": "https://osobnyaki.com//na-2-y-brestskoy-ulitse-32",
-            "Date added": "2018-08-22",
-            "Square": "1395",
-            "Price": "1107770000",
-            "Price per square meter": 794100
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0411\u0430\u0440\u044b\u043a\u043e\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
-            "Link": "https://osobnyaki.com//v-barikovskom-pereulke-7",
-            "Date added": "2018-07-24",
-            "Square": "541",
-            "Price": "1107770000",
-            "Price per square meter": 2047634
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041c\u044f\u0441\u043d\u0438\u0446\u043a\u043e\u0439, 13\u04411",
@@ -2188,8 +2188,8 @@
             "Link": "https://osobnyaki.com//v-elohovskom-proezde-1",
             "Date added": "2018-07-24",
             "Square": "600",
-            "Price": "1248570000",
-            "Price per square meter": 2080950
+            "Price": "1247360000",
+            "Price per square meter": 2078933
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0411\u043e\u043b\u044c\u0448\u043e\u043c \u0421\u0442\u0440\u043e\u0447\u0435\u043d\u043e\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 13",
@@ -2276,8 +2276,8 @@
             "Link": "https://osobnyaki.com//v-barikovskom-pereulke-7s1",
             "Date added": "2018-07-24",
             "Square": "558",
-            "Price": "1550880000",
-            "Price per square meter": 2779355
+            "Price": "1544990000",
+            "Price per square meter": 2768799
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u041b\u0443\u0436\u043d\u0438\u043a\u0438, 24/18",
@@ -2356,8 +2356,8 @@
             "Link": "https://osobnyaki.com//na-dovgenko-5",
             "Date added": "2018-07-24",
             "Square": "4966",
-            "Price": "3101750000",
-            "Price per square meter": 624597
+            "Price": "3089980000",
+            "Price per square meter": 622227
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041c\u0430\u043b\u043e\u0439 \u041e\u0440\u0434\u044b\u043d\u043a\u0435, 25",
@@ -2820,8 +2820,8 @@
             "Link": "https://osobnyaki.com//na-ulitse-ostogenka-37",
             "Date added": "2018-07-26",
             "Square": "465",
-            "Price": "147710000",
-            "Price per square meter": 317656
+            "Price": "147150000",
+            "Price per square meter": 316452
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0412\u043e\u043b\u043e\u0447\u0430\u0435\u0432\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 11/15",
@@ -2968,20 +2968,20 @@
             "Price per square meter": 300000
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041d\u0438\u0436\u043d\u0435\u0439 \u0443\u043b\u0438\u0446\u0435, 9",
+            "Link": "https://osobnyaki.com//na-nigney-ulitse-9",
+            "Date added": "2018-08-21",
+            "Square": "1111",
+            "Price": "183930000",
+            "Price per square meter": 165554
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0421\u043e\u043b\u044f\u043d\u043a\u0430, 7\u04411/1",
             "Link": "https://osobnyaki.com//na-ulitse-solyanka-7s1-1",
             "Date added": "2019-11-13",
             "Square": "180",
             "Price": "184480000",
             "Price per square meter": 1024889
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041d\u0438\u0436\u043d\u0435\u0439 \u0443\u043b\u0438\u0446\u0435, 9",
-            "Link": "https://osobnyaki.com//na-nigney-ulitse-9",
-            "Date added": "2018-08-21",
-            "Square": "1111",
-            "Price": "184630000",
-            "Price per square meter": 166184
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0421\u0442\u0430\u0440\u043e\u043a\u043e\u043d\u044e\u0448\u0435\u043d\u043d\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 5/14",
@@ -3308,8 +3308,8 @@
             "Link": "https://osobnyaki.com//v-starokonyushennom-pereulke-2",
             "Date added": "2018-07-24",
             "Square": "450",
-            "Price": "295410000",
-            "Price per square meter": 656467
+            "Price": "294290000",
+            "Price per square meter": 653978
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041b\u043e\u043f\u0443\u0445\u0438\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 3",
@@ -3620,8 +3620,8 @@
             "Link": "https://osobnyaki.com//na-blagoveshchenskom-pereulke-3",
             "Date added": "2018-07-25",
             "Square": "2775",
-            "Price": "614810000",
-            "Price per square meter": 221553
+            "Price": "612480000",
+            "Price per square meter": 220714
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432\u043e 2-\u043c \u041a\u0430\u0434\u0430\u0448\u0435\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 8\u04418",
@@ -3672,6 +3672,14 @@
             "Price per square meter": 223478
       },
       {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041f\u0440\u0435\u0447\u0438\u0441\u0442\u0435\u043d\u043a\u0435, 8",
+            "Link": "https://osobnyaki.com//na-prechistenke-8",
+            "Date added": "2018-07-26",
+            "Square": "1600",
+            "Price": "735710000",
+            "Price per square meter": 459819
+      },
+      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0422\u0435\u0441\u0441\u0438\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 5",
             "Link": "https://osobnyaki.com//v-tessinskom-pereulke-5",
             "Date added": "2020-11-18",
@@ -3686,14 +3694,6 @@
             "Square": "395",
             "Price": "736920000",
             "Price per square meter": 1865620
-      },
-      {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041f\u0440\u0435\u0447\u0438\u0441\u0442\u0435\u043d\u043a\u0435, 8",
-            "Link": "https://osobnyaki.com//na-prechistenke-8",
-            "Date added": "2018-07-26",
-            "Square": "1600",
-            "Price": "738510000",
-            "Price per square meter": 461569
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u043c \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442\u0435, 80",
@@ -3756,8 +3756,8 @@
             "Link": "https://osobnyaki.com//na-bolshoy-nikitskoy-45",
             "Date added": "2018-07-26",
             "Square": "610",
-            "Price": "832380000",
-            "Price per square meter": 1364557
+            "Price": "831580000",
+            "Price per square meter": 1363246
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0411\u043e\u043b\u044c\u0448\u043e\u043c \u0425\u0430\u0440\u0438\u0442\u043e\u043d\u044c\u0435\u0432\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 24",
@@ -3836,8 +3836,8 @@
             "Link": "https://osobnyaki.com//na-bolshoy-dmitrovke-5a",
             "Date added": "2018-07-24",
             "Square": "1000",
-            "Price": "1248570000",
-            "Price per square meter": 1248570
+            "Price": "1247360000",
+            "Price per square meter": 1247360
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0435, 18",
@@ -3896,20 +3896,20 @@
             "Price per square meter": 430288
       },
       {
-            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041f\u043e\u0436\u0430\u0440\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 15",
-            "Link": "https://osobnyaki.com//v-pogarskom-pereulke-15",
-            "Date added": "2019-11-19",
-            "Square": "2475",
-            "Price": "1846280000",
-            "Price per square meter": 745972
-      },
-      {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0425\u0438\u043b\u043a\u043e\u0432\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 1",
             "Link": "https://osobnyaki.com//v-hilkovom-pereulke-1",
             "Date added": "2018-07-24",
             "Square": "496",
             "Price": "",
             "Price per square meter": null
+      },
+      {
+            "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041f\u043e\u0436\u0430\u0440\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 15",
+            "Link": "https://osobnyaki.com//v-pogarskom-pereulke-15",
+            "Date added": "2019-11-19",
+            "Square": "2475",
+            "Price": "1846280000",
+            "Price per square meter": 745972
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041f\u0440\u043e\u0441\u0432\u0438\u0440\u0438\u043d\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 4",
@@ -3948,8 +3948,8 @@
             "Link": "https://osobnyaki.com//v-malom-vlasevskom-pereulke-12",
             "Date added": "2018-07-24",
             "Square": "2158",
-            "Price": "4061810000",
-            "Price per square meter": 1882210
+            "Price": "4046400000",
+            "Price per square meter": 1875070
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 2-\u0439 \u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0443\u043b\u0438\u0446\u0435, 12\u04411",
@@ -4036,8 +4036,8 @@
             "Link": "https://osobnyaki.com//v-kolpachnom-pereulke-6",
             "Date added": "2018-07-24",
             "Square": "600",
-            "Price": "177250000",
-            "Price per square meter": 295417
+            "Price": "176570000",
+            "Price per square meter": 294283
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0412\u0435\u0440\u0445\u043d\u0435\u0439 \u0420\u0430\u0434\u0438\u0449\u0435\u0432\u0441\u043a\u043e\u0439, 8",
@@ -4148,8 +4148,8 @@
             "Link": "https://osobnyaki.com//na-goncharnoy-naberegnoy-1",
             "Date added": "2018-07-24",
             "Square": "1182",
-            "Price": "516960000",
-            "Price per square meter": 437360
+            "Price": "515000000",
+            "Price per square meter": 435702
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u041c\u0438\u043b\u044e\u0442\u0438\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 15",
@@ -4164,8 +4164,8 @@
             "Link": "https://osobnyaki.com//v-trubnikovskom-pereulke-32",
             "Date added": "2018-07-24",
             "Square": "600",
-            "Price": "553890000",
-            "Price per square meter": 923150
+            "Price": "551790000",
+            "Price per square meter": 919650
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 33",
@@ -4228,8 +4228,8 @@
             "Link": "https://osobnyaki.com//v-malom-tatarskom-pereulke-3",
             "Date added": "2018-07-24",
             "Square": "1009",
-            "Price": "738510000",
-            "Price per square meter": 731923
+            "Price": "735710000",
+            "Price per square meter": 729148
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u041f\u043b\u044e\u0449\u0438\u0445\u0435, 10",
@@ -4244,8 +4244,8 @@
             "Link": "https://osobnyaki.com//na-bolshoy-tatarskoy-30",
             "Date added": "2018-07-24",
             "Square": "1048",
-            "Price": "960070000",
-            "Price per square meter": 916097
+            "Price": "956430000",
+            "Price per square meter": 912624
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u0432 1-\u043c \u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0443\u043b\u043a\u0435, 7",
@@ -4636,15 +4636,15 @@
             "Link": "https://osobnyaki.com//v-1-m-kadashyovskom-pereulke-11-5",
             "Date added": "2018-07-26",
             "Square": "1162",
-            "Price": "1846280000",
-            "Price per square meter": 1588881
+            "Price": "1839270000",
+            "Price per square meter": 1582849
       },
       {
             "Address": "\u041e\u0441\u043e\u0431\u043d\u044f\u043a \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u041c\u0430\u0448\u043a\u043e\u0432\u0430, 1",
             "Link": "https://osobnyaki.com//na-ulitse-mashkova-1",
             "Date added": "2018-07-26",
             "Square": "1525",
-            "Price": "1846280000",
-            "Price per square meter": 1210675
+            "Price": "1839270000",
+            "Price per square meter": 1206079
       }
 ]
