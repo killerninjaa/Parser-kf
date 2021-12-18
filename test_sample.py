@@ -1,6 +1,7 @@
 from pandas.core.frame import DataFrame
 import pytest
 import json
+import main
 from main import find_ch, find_mes, get_data, this_year, all_time, last_month, last_week, last_kvartal, main_s, get_page_soup, get_key, get_osobnyak_links, info
 import unittest
 from unittest import mock
@@ -43,7 +44,7 @@ def test_get_data():
              "Price": "87000000", 
              "Price per square meter": 98152}
              ]):
-        flag = False
+        main.flag = False
         get_data()
         ans = [
              {"Address": 'Особняк на Николоямской, 49с2',

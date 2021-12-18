@@ -51,7 +51,6 @@ def find_mes(mes, num):
 
 def all_time():
     """Записать данные об особняках в таблицу эксель"""
-    global flag
     list_info = get_data()
     osobnyak_info_df = pd.DataFrame(list_info)
     writer = pd.ExcelWriter('info_excel_all.xlsx', engine='xlsxwriter')
@@ -59,8 +58,9 @@ def all_time():
     writer.save()    
 
 def this_year(today_date):
-    """Отобрать особняки, добавленные в нынешнем году, и записать в эксель"""
-    global flag  
+    """Отобрать особняки, добавленные в нынешнем году, и записать в эксель
+    :param today_date: строка, сегодняшнее число в формате гггг-мм-дд
+    """ 
     list_info = get_data() 
     list_info_new = []
     for oso_dict in list_info:
@@ -70,11 +70,11 @@ def this_year(today_date):
     writer = pd.ExcelWriter('info_excel_year.xlsx', engine='xlsxwriter')
     osobnyak_info_df.to_excel(writer, sheet_name='Sheet1', index=False)
     writer.save()
-    return list_info_new
 
 def last_month(today_date):
-    """Отобрать особняки, добавленные в прошлом месяце, и записать в эксель"""
-    global flag
+    """Отобрать особняки, добавленные в прошлом месяце, и записать в эксель
+    :param today_date: строка, сегодняшнее число в формате гггг-мм-дд
+    """
     list_info = get_data() 
     list_info_new = []
     for oso_dict in list_info:
@@ -89,8 +89,9 @@ def last_month(today_date):
     writer.save()
 
 def last_week(today_date):
-    """Отобрать особняки, добавленные за последние 7 дней, и записать в эксель"""
-    global flag
+    """Отобрать особняки, добавленные за последние 7 дней, и записать в эксель
+    :param today_date: строка, сегодняшнее число в формате гггг-мм-дд
+    """
     list_info = get_data()   
     list_info_new = []
     for oso_dict in list_info:    
@@ -108,8 +109,9 @@ def last_week(today_date):
     writer.save()        
     
 def last_kvartal(today_date):
-    """Отобрать особняки, добавленные за последние 3 месяца, и записать в эксель"""
-    global flag
+    """Отобрать особняки, добавленные за последние 3 месяца, и записать в эксель
+    :param today_date: строка, сегодняшнее число в формате гггг-мм-дд
+    """
     list_info = get_data()    
     list_info_new = []
     for oso_dict in list_info: 
