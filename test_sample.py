@@ -6,9 +6,8 @@ import unittest
 from unittest import mock
 from mock import patch
 import pandas as pd
-from datetime import date
 
-today_date = str(date.today())
+today_date = '2021-12-18'
 
 def test_find_ch_z():
     """Тест проверяет корректность записи числа"""
@@ -149,7 +148,7 @@ def test_last_week():
          return_value=[
              {"Address": 'Особняк на Николоямской, 49с2',
              "Link": "https://osobnyaki.com//na-nikoloyamskoy-49s2", 
-             "Date added": "2021-12-17", 
+             "Date added": "2021-12-18", 
              "Square": "1108", 
              "Price": "60000000", 
              "Price per square meter": 54152},
